@@ -1,16 +1,11 @@
-# Basic Calculator in Python
+# Engaging Quiz Game in Python
 
-This repository contains a basic calculator implementation written in Python. It supports the following fundamental arithmetic operations:
+This Python script invites you to test your knowledge and challenge yourself with a fun and interactive quiz experience.
 
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
+# Features:
 
-# Usage
-
--Enter an arithmetic expression at the prompt, following standard mathematical syntax (e.g., 2 + 3 * 4).
-
--Press Enter to evaluate the expression and see the result.
-
--Continue entering expressions as desired.
+* Multiple-Choice Questions: Answer a variety of questions across different topics.
+* Clear Instructions: Receive guidance on game rules and gameplay.
+* Score Keeping: Track your progress and see how many questions you answer correctly.
+* Detailed Feedback: Learn the correct answers for missed questions.
+* Customizable Question Bank: Easily add or modify questions to tailor the quiz to your interests.
